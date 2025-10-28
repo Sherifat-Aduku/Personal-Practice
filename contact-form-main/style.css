@@ -1,0 +1,21 @@
+
+body {
+ background-color: hsl(148, 38%, 91%);
+ position: absolute;
+ left: 38%;
+ 
+}
+
+.contact-section {
+  background-color: white;
+  margin: 20px;
+  flex-direction: column;
+  padding: 20px;
+  align-content: center;
+  border-color: white;
+  border-radius: 15px;
+}
+
+
+
+
